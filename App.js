@@ -15,6 +15,7 @@ export default class App extends Component {
       <View>
         <StatusBar backgroundColor="blue" />
         <Text>Hello World</Text>
+        <Text>Hello World2</Text>
       </View>
     );
   }
